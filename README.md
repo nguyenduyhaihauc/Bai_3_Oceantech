@@ -1,0 +1,3 @@
+- Ứng dụng báo thức hiển thị 1 Timepicker để chọn giờ và checkbox để có lặp lại hay không, giờ sau khi được chọn sẽ được hiển thị trên EditText
+- Sau khi chọn giờ dến giờ AlarmManager sẽ được tự động đánh thức và gọi đến Broadcast receiver
+- Broadcast receiver sẽ start Service để hiển thị Notification và phát chuông sử dụng Media player, trên Notification có action tắt để dừng báo thức
